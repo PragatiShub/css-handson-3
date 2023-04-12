@@ -1,0 +1,23 @@
+.box{
+ border:solid;
+ border-color:red;
+ text-align: center;
+ background-color: white;
+ color: red;
+ border-width: 10px;
+ font-style: italic;
+ float:left;
+}
+
+hr{
+    height:2px;
+    color:white;
+}
+
+*{
+    background-color: grey;
+}
+img{
+    border-radius: 100px;
+    width:100px;
+}
